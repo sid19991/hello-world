@@ -1,0 +1,17 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define ll long long
+#define FIO ios_base::sync_with_stdio(false);cin.tie(NULL);
+#define MOD 1000000007
+
+
+int main()
+{
+    FIO;
+    ll n;
+    cin>>n;
+    ll boss=log2(n);
+    boss++;
+    cout<<boss<<endl;
+    return 0;
+}
