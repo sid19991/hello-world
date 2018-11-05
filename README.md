@@ -16,7 +16,7 @@ Hi there,
  things are in order, atleast for last month, letus see where this path leads
  
 ## 24th October
-  So far so good
+  So far so good.
   
 ## 30th Oct
 
