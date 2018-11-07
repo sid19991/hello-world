@@ -20,4 +20,4 @@ Hi there,
   
 ## 30th Oct
 
-  Exams
+  Exams over
