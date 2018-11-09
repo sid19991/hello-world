@@ -1,5 +1,6 @@
 #include <bits/stdc++.h> 
-  
+#define ll long long
+ 
 void computeLPSArray(char* pat, int M, int* lps); 
   
 void KMPSearch(char* pat, char* txt) 
