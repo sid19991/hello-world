@@ -1,1 +1,1 @@
-This is the place where I will put my InterviewBit Solutions
+This is the place where I will place my InterviewBit Solutions
