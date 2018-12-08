@@ -19,3 +19,8 @@ Hi there,
 ## 30th Oct
 
   Exams over.
+
+Name,
+Availibality between 10-11 A.M
+address
+phone number
