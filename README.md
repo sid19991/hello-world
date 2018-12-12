@@ -20,7 +20,6 @@ Hi there,
 
   Exams over.
 
-Name,
-Availibality between 10-11 A.M
-address
-phone number
+## 2 books 2 read
+  Think and grow rich (audio book is ## awesome, https://the-eye.eu/public/AudioBooks/Think%20and%20Grow%20Rich%20-%20The%2021st%20Century%20Edition/ )
+  How 2 win friends and influence people
