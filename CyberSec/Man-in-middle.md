@@ -1,4 +1,4 @@
-## We will man in the middle Attack using ettercap
+## We will do man in the middle Attack using ettercap
 
 1. `ettercap -G` opens ettercap
 2. open `unified sniff` from `snif` option
