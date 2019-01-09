@@ -10,7 +10,7 @@ Hi there,
   LOOKING FORWARD TO BE A PART OF YOUR GREAT COMMUNITY.
  
  # 9th september
- I think I'm gonna use this repo to keep track of my competitive programming submissions.
+ I think I'm going to use this repo to keep track of my competitive programming submissions.
   
   # 9th October
  things are in order, atleast for last month, letus see where this path leads
